@@ -13,8 +13,3 @@ An end-to-end machine learning web application that forecasts tourism demand, pr
 🚨 Overcrowding Alerts — Flags high-risk states and generates crowd management strategies for travel agents
 🔐 Role-based Auth — Separate dashboards for Travellers and Travel Agents, with CSV-based user management and profile editing
 
- Quick Start
-bashgit clone https://github.com/your-username/ai-driven-tourism.git
-cd ai-driven-tourism
-pip install -r requirements.txt
-streamlit run app.py
